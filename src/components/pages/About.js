@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <h1>About age</h1>
-      <p>TCD0502 React Course by Vinh Hoang</p>
+      <p>TCD0502 React Course</p>
     </div>
   );
 }
